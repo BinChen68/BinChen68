@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BinChen68
 - 👀 I’m interested in THINKING
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on ChunZhang
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : BinChen68@shu.edu.cn
 
 <!---
